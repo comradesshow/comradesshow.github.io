@@ -1,0 +1,22 @@
+
+title: C*O*M*R*A*D*E*S
+url: 'https://comradesshow.github.io'
+baseurl: '/C*O*M*R*A*D*E*S' #change it according to your repository name
+
+
+
+# Profile information
+yourname: C*O*M*R*A*D*E*S ## put your name
+title: 'A show like no other!'  ## your title
+location: Earth
+
+
+## Social Profiles
+facebook: https://www.facebook.com  ## your facebook account url
+twitter: https://www.twitter.com  ## your twitter account url
+reddit: https://www.reddit.com/r/comradesshow  ## your reddit account url
+instagram: https://www.instagram.com/comradesshow 
+
+
+
+# Update all the sections by editing the files inside _includes folder.
